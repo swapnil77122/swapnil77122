@@ -48,7 +48,7 @@ If you’re someone who loves to dive into the world of data and tech, let’s c
 
 Want to see what I’ve been working on? Explore my GitHub repository to discover projects like **diabetes prediction models**, **movie bot IMDb search**, and many more! These projects reflect my hands-on approach to learning and solving problems using data.
 
-[**Explore My GitHub Projects**](https://github.com/swapnil77122/swapnil77122.git) 🚀
+[**Explore My GitHub Projects**](https://github.com/swapnil77122?tab=repositories) 🚀
 
 ---
 
@@ -56,7 +56,7 @@ Want to see what I’ve been working on? Explore my GitHub repository to discove
 
 I’m always open to new opportunities, collaborations, and discussions about the future of data and machine learning. Feel free to reach out to me via:  
 - [**LinkedIn**](www.linkedin.com/in/swapnil-dhage-393610278)  
-- [**GitHub**](https://github.com/swapnil77122/swapnil77122.git)  
+- [**GitHub**](https://github.com/swapnil77122)  
 
 ---
 
