@@ -55,7 +55,7 @@ Want to see what I’ve been working on? Explore my GitHub repository to discove
 ## 🔗 **Let’s Connect!**  
 
 I’m always open to new opportunities, collaborations, and discussions about the future of data and machine learning. Feel free to reach out to me via:  
-- [**LinkedIn**](in/swapnil-dhage-393610278)  
+- [LinkedIn](www.linkedin.com/in/swapnil-dhage-393610278)  
 - [**GitHub**](https://github.com/swapnil77122)  
 
 ---
