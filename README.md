@@ -1,63 +1,18 @@
+# 💫 About Me:
+🚀 My Journey at a Glance<br>🧠 Data Enthusiast from the Start: My journey began with a curiosity for how data can reveal hidden insights and shape decisions. Learning Python and diving into the world of machine learning allowed me to turn that curiosity into practical applications.<br><br>🔧 Hands-On Learning: Along the way, I’ve worked on a wide range of projects— from predictive analytics to web scraping— all designed to solve real-world challenges and create value for users.<br><br>🎯 Focused on Impact: Today, I’m focused on using data-driven approaches to tackle complex problems, with a specific interest in predictive analytics, NLP, and health tech. I thrive on the challenge of turning data into actionable insights and creating tools that make a difference.<br><br>💻 Domain Interests<br>Here’s where my passions lie:<br><br>Predictive Analytics 📉: Predicting future trends and behaviors based on data insights.<br>Natural Language Processing (NLP) 💬: Teaching machines to understand and interpret human language.<br>Computer Vision 👁️: Enabling computers to interpret and make decisions based on visual input.<br>Health Tech 🩺: Using data science to revolutionize healthcare.<br>Business Intelligence 📊: Helping organizations make informed decisions using data.<br>I’m always eager to explore these domains further and work on projects that have a meaningful impact!<br>🌍 Exploring New Frontiers<br>Data is at the core of every industry today, and I’m passionate about staying on top of the latest trends and breakthroughs. I actively follow advancements in AI, deep learning, and big data, with the goal of continually expanding my knowledge and applying it to solve complex problems.<br><br>If you’re someone who loves to dive into the world of data and tech, let’s connect and exchange ideas. I’m always excited about collaborations, brainstorming new projects, and building something that matters.
 
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1150451345250336878) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/swapnil-dhage-393610278) 
 
-# **Swapnil Dhage**
-
-👋 **Welcome to My Data Journey!**  
-I’m **Swapnil Dhage**, a driven **Data Scientist** and **Machine Learning Enthusiast** with a passion for solving real-world problems using data. From crafting intuitive applications to building predictive models, I’m always exploring new ways to leverage the power of data.
-
----
-
-## 🌟 **Glad to Have You Here!**  
-
-Welcome to my space, where **data** meets **innovation**! I’m constantly working on exciting projects, exploring the latest in data science, and collaborating with others who share my curiosity for **machine learning**, **AI**, and everything in between. 
----
-
-## 🚀 **My Journey at a Glance**  
-
-🧠 **Data Enthusiast from the Start**: My journey began with a curiosity for how data can reveal hidden insights and shape decisions. Learning **Python** and diving into the world of **machine learning** allowed me to turn that curiosity into practical applications.  
-
-🔧 **Hands-On Learning**: Along the way, I’ve worked on a wide range of projects— from **predictive analytics** to **web scraping**— all designed to solve real-world challenges and create value for users. 
-
-🎯 **Focused on Impact**: Today, I’m focused on using data-driven approaches to tackle complex problems, with a specific interest in **predictive analytics**, **NLP**, and **health tech**. I thrive on the challenge of turning data into actionable insights and creating tools that make a difference.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=swapnil77122&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swapnil77122&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnil77122&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=swapnil77122&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 **Domain Interests**  
-Here’s where my passions lie:  
-- **Predictive Analytics** 📉: Predicting future trends and behaviors based on data insights.  
-- **Natural Language Processing (NLP)** 💬: Teaching machines to understand and interpret human language.  
-- **Computer Vision** 👁️: Enabling computers to interpret and make decisions based on visual input.  
-- **Health Tech** 🩺: Using data science to revolutionize healthcare.  
-- **Business Intelligence** 📊: Helping organizations make informed decisions using data.  
-
-I’m always eager to explore these domains further and work on projects that have a meaningful impact!
-
----
-
-## 🌍 **Exploring New Frontiers**  
-
-Data is at the core of every industry today, and I’m passionate about staying on top of the latest trends and breakthroughs. I actively follow advancements in **AI**, **deep learning**, and **big data**, with the goal of continually expanding my knowledge and applying it to solve complex problems.  
-
-If you’re someone who loves to dive into the world of data and tech, let’s connect and exchange ideas. I’m always excited about collaborations, brainstorming new projects, and building something that matters.
-
----
-
-## 🔍 **Discover My Projects**  
-
-Want to see what I’ve been working on? Explore my GitHub repository to discover projects like **diabetes prediction models**, **movie bot IMDb search**, and many more! These projects reflect my hands-on approach to learning and solving problems using data.
-
-[**Explore My GitHub Projects**](https://github.com/swapnil77122?tab=repositories) 🚀
-
----
-
-## 🔗 **Let’s Connect!**  
-
-I’m always open to new opportunities, collaborations, and discussions about the future of data and machine learning. Feel free to reach out to me via:  
-- [LinkedIn](www.linkedin.com/in/swapnil-dhage-393610278)  
-- [**GitHub**](https://github.com/swapnil77122)  
-
----
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
